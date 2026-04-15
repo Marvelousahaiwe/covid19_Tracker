@@ -34,6 +34,13 @@ and repository interfaces. Completely independent of external libraries or frame
 * **Data Layer:** Implements repository interfaces, interacts 
 with remote APIs using Dio, and handles data mapping/parsing.
 
+# Screenshots
+
+<p float="left" align="center">
+  <img src="screenshots/screen.jpg" width="300" /> 
+
+</p>
+
 ## Key Features
 
 * **Real-time COVID-19 Statistics:** Fetch and display the 
